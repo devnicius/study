@@ -1,1 +1,1 @@
-# study-node-alura
+# study
